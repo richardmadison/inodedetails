@@ -1,6 +1,8 @@
 # inodedetails
 
-Cheers - A nice little cPanel Plugin to allow your customers to view their Inode Usage.
+Cheers.
+
+Here's a nice little cPanel Plugin to allow your customers to view their Inode Usage Details.
 
 Specifically, we show all folders with more than 100 files in them.
 
