@@ -10,9 +10,15 @@ Still a few improvements required - the inode limit in the explanation to the cu
 
 Anyhow, it's pretty easy to install.
 
+=====
+
 wget https://github.com/richardmadison/inodedetails/raw/master/install_inodedetails.sh
+
 chmod +x install_inodedetails.sh
+
 ./install_inodedetails.sh
+
+=====
 
 That's it.
 
